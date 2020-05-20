@@ -1,0 +1,13 @@
+{
+    "code": 0,
+    "msg": "获取公告详情成功",
+    "data": 
+        {
+            "notice_id": "anno1", 
+            "title": "测试公告标题",
+            "create_time": "2020-5-14|18:33:28",
+            "author": "admin",
+            "watch_num": 0,
+            "content": "这是公告内容"
+        }
+}

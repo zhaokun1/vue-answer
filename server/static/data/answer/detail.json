@@ -1,0 +1,40 @@
+{
+"code": 0,
+"msg": "获取问题详情成功",
+"data": {
+    "answer_id": "ask1",
+    "watch_num": 1,
+    "answer_num": 0,
+    "state": 0,
+    "extra_state": 0,
+    "question_id": 1,
+    "cate_id": 1,
+    "user_id": 1,
+    "title": "垂耳兔养大的橘猫",
+    "description": "孟不离周， 周不离孟",
+    "create_time": "2020-05-14 22:13:06",
+    "__v": 0,
+    "from": {
+        "_id": "ques1",
+        "avatar": "http://localhost:8080/static/img/03.jpg",
+        "gender": "保密",
+        "bio": "",
+        "birthday": "",
+        "user_id": 1,
+        "phone": "19832182827",
+        "password": "123456",
+        "nickname": "kaisa ",
+        "create_time": "2020-05-14 22:12:48",
+        "__v": 0
+    },
+    "cate": {
+        "_id": "5e16cb89cd42da39f466cfa1",
+        "cate_id": 1,
+        "cate_name": "前端",
+        "create_time": "2020-01-09 14:43:21",
+        "__v": 0
+    },
+    "answer": [],
+    "nowUserId": 1
+}
+}

@@ -1,0 +1,43 @@
+{
+    "code":0,
+    "msg":"获取首页数据成功",
+    "data":{
+        "slideList":[
+            { "_id": "img1", "img": "/static/img/01.jpg" },
+            { "_id": "img2", "img": "/static/img/02.jpg" }
+        ],
+        "quesList":[
+            { 
+                "question_id": "ques1", 
+                "watch_num": 6,
+                "answer_num": 0,
+                "state": 0,
+                "extra_state": 0,
+                "ques_id": 1,
+                "cate_id": 1,
+                "user_id": 1,
+                "src": "/static/img/03.jpg",
+                "title": "垂耳兔养大的橘猫",
+                "description": "孟不离周， 周不离孟",
+                "create_time": "2020-05-14 22:13:06",
+                "__v": 0,
+                "from": {
+                    "_id": "ques1",
+                    "avatar": "http://localhost:8080/static/img/03.jpg",
+                    "gender": "保密",
+                    "bio": "",
+                    "birthday": "",
+                    "user_id": 1,
+                    "phone": "19832182827",
+                    "password": "123456",
+                    "nickname": "kaisa ",
+                    "create_time": "2020-05-14 22:12:48",
+                    "__v": 0
+                }
+            }
+        ],
+        "userNum":2,
+        "quesNum":5,
+        "solveNum":2
+    }
+}

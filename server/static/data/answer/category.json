@@ -1,0 +1,49 @@
+{
+    "code": 0,
+    "msg": "获取问答分类成功",
+    "data": [
+        { 
+            "_id": "5e16cb89cd42da39f466cfa1",
+            "cate_id": 1,
+            "cate_name": "前端",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        },
+        { 
+            "_id": "5e16cb89cd42da39f466cfa2",
+            "cate_id": 2,
+            "cate_name": "后端",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        },
+        { 
+            "_id": "5e16cb89cd42da39f466cfa3",
+            "cate_id": 3,
+            "cate_name": "大数据",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        },
+        { 
+            "_id": "5e16cb89cd42da39f466cfa4",
+            "cate_id": 4,
+            "cate_name": "人工智能",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        },
+        { 
+            "_id": "5e16cb89cd42da39f466cfa5",
+            "cate_id": 5,
+            "cate_name": "安卓",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        },
+        { 
+            "_id": "5e16cb89cd42da39f466cfa6",
+            "cate_id": 6,
+            "cate_name": "IOS",
+            "create_time": "2020-01-09 14:43:21",
+            "__v": 0
+        }
+
+    ]
+}

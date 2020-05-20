@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "msg":  "获取搜索问题列表成功",
+    "data": [
+        {   "watch_num":14,
+            "answer_num":0,
+            "state":0,
+            "extra_state":0,
+            "_id":"5ebd51f229a65a359d6a2b9f",
+            "question_id":1,
+            "cate_id":1,
+            "user_id":1,
+            "title":"1231",
+            "description":"23131",
+            "create_time":"2020-05-14 22:13:06",
+            "__v":0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "code":0,
+    "msg": "获取公告数据成功",
+    "data": {
+        "noticeList": [
+            {
+                "notice_id": "anno1", 
+                "title": "测试公告标题",
+                "create_time": "2020-5-14|18:33:28",
+                "author": "admin",
+                "watch_num": 0,
+                "content": "此条为测试公告"
+            },
+            { 
+                "notice_id": "anno2", 
+                "title": "周九良的广告词",
+                "create_time": "2020-5-14|18:35:03",
+                "author": "admin",
+                "watch_num": 0,
+                "content": "周九橘代言了京东redmiK30极速手机  希望大家多多支持"
+            }
+        ]
+    }
+}

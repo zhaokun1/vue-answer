@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "获取个人资料信息成功",
+    "data": {
+        "avatar": "http://47.99.74.241:5000/public/images/default.png",
+        "gender": "保密",
+        "bio": "",
+        "birthday": "",
+        "_id": "5ebd51e029a65a359d6a2b9e",
+        "user_id": 1,
+        "phone": "15158014698",
+        "password": "123456",
+        "nickname": "kaisa ",
+        "create_time": "2020-05-14 22:12:48",
+        "__v": 0
+    }
+}
